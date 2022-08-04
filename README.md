@@ -1,7 +1,7 @@
 <h3>  Hello, my name is Luís Travassos! </h3>
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Luyiz333">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luyiz333&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&custom_title=💻 Current stats: "/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyiz333&layout=compact&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
